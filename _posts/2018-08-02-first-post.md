@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 如何写你的第一个强化学习案例
-image: /img/hello_world.jpeg
+title: david silver课程介绍
+image: /img/hello-world.jpg
 ---
 
-This is my first post, how exciting!
+课程地址：
