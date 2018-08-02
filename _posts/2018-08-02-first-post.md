@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: 如何写你的第一个强化学习案例
 image: /img/hello_world.jpeg
 ---
 
